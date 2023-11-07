@@ -13,7 +13,7 @@ while True:
     if operacao == "1":
         valor_deposito = float(input("Digite o valor que você deseja depositar: \n"))
         conta_saldo += valor_deposito
-        extrato += f"-Foi depositado:          + R${valor_deposito:5.2f} \n"
+        extrato += f"-Foi depositado:           + R${valor_deposito:5.2f} \n"
     if operacao == "2":
         if limite_quantidade_saque == 0:
             print(f"Limite de saque excedido. \n")

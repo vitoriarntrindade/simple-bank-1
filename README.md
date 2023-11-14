@@ -12,6 +12,6 @@
 ##  Implementações futuras    
 Esse projeto é divido em quatro partes, sendo elas:
 
-* Sistema inicial utilizando apenas a lógica de programação em **Python**
-* Otimização do sistema com a utilização de **_funções_** no Python
-* Criação de *classes* para **POO**  
+- [x] Sistema inicial utilizando apenas a lógica de programação em **Python**
+- [ ] Otimização do sistema com a utilização de **_funções_** no Python
+- [ ] Criação de *classes* para **POO**  
